@@ -1,0 +1,9 @@
+crawl4ai
+tavily-python
+ollama
+pydantic
+psycopg2-binary
+pytest
+trafilatura
+httpx
+python-dotenv
