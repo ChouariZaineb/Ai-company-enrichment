@@ -1,3 +1,4 @@
+![GitHub Stars](https://img.shields.io/github/stars/ChouariZaineb/Ai-company-enrichment?style=social)
 # Actum AI Company Enrichment
 
 An AI-powered system for automated company research and classification, designed for private equity analysis. The system extracts structured information from company websites, matches them to predefined sector and topic taxonomies, and evaluates accuracy across multiple LLM models.
